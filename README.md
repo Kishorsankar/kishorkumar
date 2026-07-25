@@ -1,2 +1,0 @@
-# kishorkumar
-mini project
